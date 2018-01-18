@@ -1,0 +1,6 @@
+c:\users\dev\documents\visual studio 2012\Projects\HowToProgrammingCSharp\HowToProgrammingCSharp\bin\Debug\HowToProgrammingCSharp.exe.config
+c:\users\dev\documents\visual studio 2012\Projects\HowToProgrammingCSharp\HowToProgrammingCSharp\bin\Debug\HowToProgrammingCSharp.exe
+c:\users\dev\documents\visual studio 2012\Projects\HowToProgrammingCSharp\HowToProgrammingCSharp\bin\Debug\HowToProgrammingCSharp.pdb
+c:\users\dev\documents\visual studio 2012\Projects\HowToProgrammingCSharp\HowToProgrammingCSharp\obj\Debug\HowToProgrammingCSharp.csprojResolveAssemblyReference.cache
+c:\users\dev\documents\visual studio 2012\Projects\HowToProgrammingCSharp\HowToProgrammingCSharp\obj\Debug\HowToProgrammingCSharp.exe
+c:\users\dev\documents\visual studio 2012\Projects\HowToProgrammingCSharp\HowToProgrammingCSharp\obj\Debug\HowToProgrammingCSharp.pdb
